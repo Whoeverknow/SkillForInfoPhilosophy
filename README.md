@@ -196,3 +196,15 @@ Derived from collaboration between **Whoeverknow** (human researcher) and AI age
 *🔮 "Narrow-but-wrong is more dangerous than wide-but-right."*
 
 *📡 "Save the human's feedback bandwidth as your first priority."*
+
+---
+
+## ✅ 证据链 · 🧭 溯源
+
+| 项 | 依据（仓库内可核验） |
+|---|---|
+| 技能身份 | `SKILL.md` frontmatter：`name: human-agent-bayesian-communication`（364 行） |
+| 来源实证 | 本 README「Origin Story」：源自祁连山草地社会-生态系统韧性博士研究中的真实人机协作（5 组失败→教训，均可在上表逐条核对） |
+| 安装方式 | Hermes Agent skills 目录路径（见「Installation」） |
+| 许可 | README 声明 MIT；⚠️ 仓库内暂无 `LICENSE` 文件，建议补充以完成溯源 |
+| 关联仓库 | [AgentSkill](https://github.com/Whoeverknow/AgentSkill)（个人技能基线）· [academic-knowledge-manager](https://github.com/Whoeverknow/academic-knowledge-manager) · [SkillForInfoPhilosophy](https://github.com/Whoeverknow/SkillForInfoPhilosophy) |
